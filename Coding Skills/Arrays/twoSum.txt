@@ -1,4 +1,4 @@
-Problem : Two Sum 
+Problem: Two Sum 
 
 Solution : 
 
@@ -16,3 +16,5 @@ class Solution {
         return null;
     }
 }
+
+TC :  O(N^2)
